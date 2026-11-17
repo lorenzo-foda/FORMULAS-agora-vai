@@ -1,4 +1,1 @@
-# server-testes-ou-exercicios
-# server-testes-ou-exercicios
-# server-testes-ou-exercicios
-# server-testes-ou-exercicios
+#sei la cara me deixa
